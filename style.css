@@ -1,0 +1,153 @@
+*{
+    margin:0;
+    padding:0;
+  }
+.main-nav ul li {
+  display: inline-block;
+  text-align: center;
+  margin-left: 15px;
+}
+  .header{
+    align-content: center;
+    background-color:#ADA4AE;
+  }
+  .main-nav .logo img {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+  }
+  body{
+    margin:0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size:17px;
+    color:#fff;
+    line-height:1.6;
+  }
+  h4 {
+    text-align: center;
+  }
+
+  #showcase{
+    background-image:url('https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?cs=srgb&dl=adorable-animal-baby-1851164.jpg&fm=jpg');
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:0 20px;
+  }
+  #showcase h1{
+    font-size:50px;
+    line-height:1.2;
+    color:white;
+  }
+  #showcase p{
+    font-size:20px;
+    color: white;
+  }
+  #showcase .button{
+    font-size:18px;
+    text-decoration:none;
+    color:#fff;
+    border: #fff 1px solid;
+    padding:10px 20px;
+    border-radius:10px;
+    margin-top:20px;
+  }
+  .titlesam {
+    align-content: center;
+  }
+  #showcase .button:hover{
+    background:#ADA4AE;
+    color:black;
+  }
+  #section-a{
+    padding:20px;
+    background:#000;
+    color:#fff;
+    text-align:center;
+  }
+  #section-b{
+    padding:20px;
+    background:#D0D0CE;
+    text-align:center;
+    color: black;
+  }
+  #section-c{
+    display: ruby;
+  }
+  #section-c div{
+    padding:20px;
+  }
+  #section-c .bella, #section-c .ben{
+    background:#B0AAAB;
+    color:#fff;
+  }
+.bella {
+  text-align: center;
+}
+
+.sam {
+  text-align: center;
+}
+
+.ben{
+  text-align: center;
+}
+
+  #section-c .sam {
+    background:#C1C6C8;
+  }  
+  .logo{
+      height:15%;
+      width: 15%;
+  }
+
+  #footer{
+    background-image:url(https://images.pexels.com/photos/2117938/pexels-photo-2117938.jpeg?cs=srgb&dl=background-black-and-white-close-up-2117938.jpg&fm=jpg);
+    background-size:cover;
+    background-position:center;
+    height:50%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:0 20px;
+  }
+
+  #reviews{
+    background-color:rgba(193, 198, 200, 0.5);
+    color: black;
+    align-content: center;
+  }
+
+  #reviewtitle{
+    background-color:#C1C6C8;
+  }
+  #footer1{
+    background: white;
+  
+  }
+
+  .Signup{
+    color:white;
+
+  }
+
+  .ftt{
+    text-align: center;
+    background-color:gray;
+  }
+  
+  .address{
+    background-color: gray;
+    text-align: center;
+    border-color: indigo;
+    width: 100%;
+    height: 100%;
+    border-block-color: black;
+  }
